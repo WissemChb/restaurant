@@ -1,0 +1,60 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALLOWED_HOSTS	../restaurant/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
+AUTH_PASSWORD_VALIDATORS	../restaurant/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:88
+AppConfig	../restaurantapp/apps.py	/^from django.apps import AppConfig$/;"	kind:namespace	line:4
+BASE_DIR	../restaurant/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
+DATABASES	../restaurant/settings.py	/^DATABASES = {$/;"	kind:variable	line:77
+DEBUG	../restaurant/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
+INSTALLED_APPS	../restaurant/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:33
+LANGUAGE_CODE	../restaurant/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:107
+MIDDLEWARE	../restaurant/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:43
+ROOT_URLCONF	../restaurant/settings.py	/^ROOT_URLCONF = 'restaurant.urls'$/;"	kind:variable	line:53
+Restaurant	../restaurantapp/models.py	/^class Restaurant(models.Modal):$/;"	kind:class	line:6
+RestaurantappConfig	../restaurantapp/apps.py	/^class RestaurantappConfig(AppConfig):$/;"	kind:class	line:7
+SECRET_KEY	../restaurant/settings.py	/^SECRET_KEY = '!6(j5+ao3(7!mn5v0o^fqj==@l4fao39o94k3^^o15gywy3@1g'$/;"	kind:variable	line:23
+STATIC_URL	../restaurant/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:121
+TEMPLATES	../restaurant/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:55
+TIME_ZONE	../restaurant/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:109
+TestCase	../restaurantapp/tests.py	/^from django.test import TestCase$/;"	kind:namespace	line:4
+USE_I18N	../restaurant/settings.py	/^USE_I18N = True$/;"	kind:variable	line:111
+USE_L10N	../restaurant/settings.py	/^USE_L10N = True$/;"	kind:variable	line:113
+USE_TZ	../restaurant/settings.py	/^USE_TZ = True$/;"	kind:variable	line:115
+WSGI_APPLICATION	../restaurant/settings.py	/^WSGI_APPLICATION = 'restaurant.wsgi.application'$/;"	kind:variable	line:71
+__init__.py	../restaurant/__init__.py	1;"	kind:file	line:1
+__init__.py	../restaurantapp/__init__.py	1;"	kind:file	line:1
+__init__.py	../restaurantapp/migrations/__init__.py	1;"	kind:file	line:1
+admin	../restaurant/urls.py	/^from django.contrib import admin$/;"	kind:namespace	line:17
+admin	../restaurantapp/admin.py	/^from django.contrib import admin$/;"	kind:namespace	line:4
+admin.py	../restaurantapp/admin.py	1;"	kind:file	line:1
+application	../restaurant/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+apps.py	../restaurantapp/apps.py	1;"	kind:file	line:1
+django	../manage.py	/^            import django$/;"	kind:namespace	line:14
+execute_from_command_line	../manage.py	/^        from django.core.management import execute_from_command_line$/;"	kind:namespace	line:8
+get_wsgi_application	../restaurant/wsgi.py	/^from django.core.wsgi import get_wsgi_application$/;"	kind:namespace	line:12
+manage.py	../manage.py	1;"	kind:file	line:1
+models	../restaurantapp/models.py	/^from django.db import models$/;"	kind:namespace	line:4
+models.py	../restaurantapp/models.py	1;"	kind:file	line:1
+name	../restaurantapp/apps.py	/^    name = 'restaurantapp'$/;"	kind:variable	line:8
+name	../restaurantapp/models.py	/^    name =models.CharField(max_length = 50)$/;"	kind:variable	line:7
+os	../manage.py	/^import os$/;"	kind:namespace	line:2
+os	../restaurant/settings.py	/^import os$/;"	kind:namespace	line:13
+os	../restaurant/wsgi.py	/^import os$/;"	kind:namespace	line:10
+render	../restaurantapp/views.py	/^from django.shortcuts import render$/;"	kind:namespace	line:4
+settings.py	../restaurant/settings.py	1;"	kind:file	line:1
+sys	../manage.py	/^import sys$/;"	kind:namespace	line:3
+tests.py	../restaurantapp/tests.py	1;"	kind:file	line:1
+unicode_literals	../restaurantapp/admin.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+unicode_literals	../restaurantapp/apps.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+unicode_literals	../restaurantapp/models.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+unicode_literals	../restaurantapp/tests.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+unicode_literals	../restaurantapp/views.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+url	../restaurant/urls.py	/^from django.conf.urls import url$/;"	kind:namespace	line:16
+urlpatterns	../restaurant/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urls.py	../restaurant/urls.py	1;"	kind:file	line:1
+views.py	../restaurantapp/views.py	1;"	kind:file	line:1
+wsgi.py	../restaurant/wsgi.py	1;"	kind:file	line:1
